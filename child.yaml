@@ -1,0 +1,5 @@
+schemaVersion: 2.1.0 
+metadata:
+  name: my-project-dev
+parent:
+  uri: ./parent/devfile.yaml
