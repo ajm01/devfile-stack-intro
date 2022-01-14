@@ -3,3 +3,5 @@ metadata:
   name: my-project-dev
 parent:
   uri: ./parent/devfile.yaml
+  variables:
+    liberty-plugin-version: 3.6.1  
